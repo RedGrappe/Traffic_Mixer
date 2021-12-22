@@ -10,14 +10,14 @@ import terminal_banner
 
 
 ######################################################
-banner_text = "----Traffic Merger----\nAuthor: Manuel Leyva\nGithub: RedGrappe\n-*-*-*-*-*-*-*-*-*-*-*-*-\nDependencies:\ntcpdump, tcpreplay, net-tools\ncapinfos, pgrep\nPython Dependencies:\nterminal_banner"
+banner_text = "----Traffic Merger----\nAuthor: RedGrappe\nGithub: RedGrappe\n-*-*-*-*-*-*-*-*-*-*-*-*-\nDependencies:\ntcpdump, tcpreplay, net-tools\ncapinfos, pgrep\nPython Dependencies:\nterminal_banner"
 my_banner = terminal_banner.Banner(banner_text)
 print(my_banner)
 ######################################################
-banner_text2 = "----Traffic Merger----\nAuthor: Manuel Leyva\nGithub: RedGrappe\n-*-*-*-*-*-*WORKING-*-*-*-*-*-*-"
+banner_text2 = "----Traffic Merger----\nAuthor: RedGrappe\nGithub: RedGrappe\n-*-*-*-*-*-*WORKING-*-*-*-*-*-*-"
 my_banner2 = terminal_banner.Banner(banner_text2)
 ######################################################
-banner_text3 = "----Traffic Merger----\nAuthor: Manuel Leyva\nGithub: RedGrappe\n-*-*-*-*-*-*FINISHED-*-*-*-*-*-*-"
+banner_text3 = "----Traffic Merger----\nAuthor: RedGrappe\nGithub: RedGrappe\n-*-*-*-*-*-*FINISHED-*-*-*-*-*-*-"
 my_banner3 = terminal_banner.Banner(banner_text3)
 
 ######################################################
