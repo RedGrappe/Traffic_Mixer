@@ -5,7 +5,6 @@ echo "#Github: RedGrappe"
 echo "#developed in ParrotOS 4.11"
 echo "######################################################"
 echo "RUN script like '$ sudo sh Interface_Creatir.sh'\n"
-modprobe dummy
 echo "Enter Virtual Interface Name | Example: ethvirtual"
 read IName
 echo "Enter MAC Address | Example: AA:AB:AC:AD:AE:AF"
